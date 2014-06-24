@@ -1,4 +1,4 @@
-mincer-engine-emberscript
+mincer-emberscript-engine
 =========================
 
 Emberscript Mincer Engine

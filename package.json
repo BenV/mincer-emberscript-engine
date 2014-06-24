@@ -1,0 +1,28 @@
+{
+  "name": "mincer-emberscript-engine",
+  "version": "0.1.0",
+  "description": "Emberscript engine for Mincer",
+  "main": "lib/emberscript_engine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BenV/mincer-emberscript-engine.git"
+  },
+  "keywords": [
+    "mincer-contrib",
+    "mincer",
+    "emberscript",
+    "mincer-engine",
+    "ember",
+    "emberjs",
+    "precompile"
+  ],
+  "author": "Ben Vinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenV/mincer-emberscript-engine/issues"
+  },
+  "homepage": "https://github.com/BenV/mincer-emberscript-engine"
+}
